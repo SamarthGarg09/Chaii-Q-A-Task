@@ -22,3 +22,10 @@
 - The model is able to give the correct answer in most of the cases.
 - Model has acheived exact match score of 82.14 on the validation set.
 
+### Libraries and Framework used
+- [transformers](https://huggingface.co/)
+- [Pytorch](https://pytorch.org/)
+- [Dataset](https://huggingface.co/docs/datasets/)
+- [matplotlib](https://matplotlib.org/)
+- [pandas](https://pandas.pydata.org/)
+- [numpy](https://numpy.org/)
