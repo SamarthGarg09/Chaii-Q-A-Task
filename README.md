@@ -8,7 +8,7 @@
 
 ### Dataset used 
 - chaii by google
-- complete EDA of the dataset can be found here [EDA](https://eda-chaii.netlify.app/)
+- complete EDA of the dataset can be found here [EDA](https://chaii-eda.netlify.app/)
 
 ### Model link
 - [SmartPy/bert-finetuned-squad-chaii](https://huggingface.co/SmartPy/bert-finetuned-squad-chaii)
