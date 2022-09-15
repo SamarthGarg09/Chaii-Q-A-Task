@@ -12,7 +12,8 @@
 ### Dataset used 
 - [chaii](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering) by google
 - complete EDA of the dataset can be found here [EDA](https://chaii-eda.netlify.app/)
-![EDA](./images/eda.png)
+
+![Screenshot](images/EDA.png)
 
 ### Model link
 - [SmartPy/bert-finetuned-squad-chaii](https://huggingface.co/SmartPy/bert-finetuned-squad-chaii)
