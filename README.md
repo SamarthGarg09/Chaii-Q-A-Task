@@ -1,14 +1,18 @@
-# <U>**CHAI-LETS ANSWER IN HINDI AND TAMIL.**</U>
-## Extractive Question Answering Bot.
+# <U>**CHAI-LETS ANSWER SOME QUESTION.**</U>
 
+## Project description
+- Extractive Question Answering Bot
+- Answers question in multiple languages including **Hindi** and **Tamil**.
+- Feel free to play with the bot and don't forget to like the space.
 > [App link](https://huggingface.co/spaces/SmartPy/chaii-qa-task)
 
-![Screenshot](./images/app_ss.png)
+![Screenshot](./images/app.gif)
 
 
 ### Dataset used 
-- chaii by google
+- [chaii](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering) by google
 - complete EDA of the dataset can be found here [EDA](https://chaii-eda.netlify.app/)
+![EDA](./images/eda.png)
 
 ### Model link
 - [SmartPy/bert-finetuned-squad-chaii](https://huggingface.co/SmartPy/bert-finetuned-squad-chaii)
